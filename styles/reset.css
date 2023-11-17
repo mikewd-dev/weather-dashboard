@@ -44,7 +44,7 @@ height: 200px;
 .card{
 width: 170px;
 height: 200px;
-background: navy;
+background: rgb(32, 32, 32);
 }
 
 .weather-header{

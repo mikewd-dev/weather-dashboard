@@ -47,6 +47,10 @@ height: 200px;
 background: rgb(32, 32, 32);
 }
 
+.card-body{
+    color: white;
+}
+
 .weather-header{
     background-color: navy;
 }

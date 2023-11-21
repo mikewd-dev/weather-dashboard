@@ -1,3 +1,7 @@
+/* h1 {
+    display: inline-flex;
+    flex-direction: row;
+} */
 .input-group {
     display: flex;
     flex-direction: column;

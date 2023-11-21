@@ -20,10 +20,16 @@
 }
 
 .search-city-button {
-    background: #6c6868;
+    background: #ada9a9;
     width: 300px;
+    padding: 7px 12px 7px 11px;
     margin-top: 10px;
-}
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+  }
+
 
 .col-lg-3 {
     flex-wrap: wrap;

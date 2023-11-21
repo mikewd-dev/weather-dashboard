@@ -16,6 +16,7 @@ $(document).ready(function () {
     //check for any existing data and clear
     $("#today").empty();
 
+
     //use fetch  for a get request to get weather data from Openweather
     //first fetch the city's geolocation data using the latitude and longitude from the api
     fetch(geocodingAPI + cityName + "&limit=1&appid=" + APIKey)

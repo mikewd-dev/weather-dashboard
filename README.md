@@ -16,7 +16,7 @@ N/A
 
 ## Usage
 
-To use the weather dashboard please go to https://mikewd-dev.github.io/weather-dashboard/.You can search a city using the search button or any of the buttons with the city names. The data is persistent therefore if you close the browser or refresh the the last set of data remains displayed.
+To use the weather dashboard please go to https://mikewd-dev.github.io/weather-dashboard/. You can search a city using the search button or any of the buttons with the city names. The data is persistent therefore if you close the browser or refresh the the last set of data remains displayed.
 
 ## Credits
 
